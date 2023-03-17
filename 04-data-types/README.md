@@ -48,7 +48,7 @@ Maneja **3** tipos de datos principales:
 	uint8 - int // Error
 	int * int // Bien
 
-**Para hacer operaciones con distitintos tipos de datos debes hacer un cat**
+**Para hacer operaciones con distitintos tipos de datos debes hacer un casting de tipos**
 
 	int(uint8) - int // Bien
 
